@@ -8,8 +8,8 @@ Formally, we need to minimize the number of indices **i** (where **1 ≤ i ≤ n
 
 **Input:**  
 The first line contains two integers **n** (the number of planting spots) and **k** (the number of lentil seeds).  
-- **2 ≤ n ≤ 100**  
-- **1 ≤ k ≤ n**  
+- **2 ≤ k ≤ 100**  
+- **1 ≤ n ≤ k**  
 
 **Output:**  
 Print a single integer — the minimum number of adjacent pairs where both spots contain lentil seeds.  
