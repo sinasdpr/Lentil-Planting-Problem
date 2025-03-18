@@ -44,5 +44,5 @@ One optimal way is to plant lentils in positions **1, 2, 3,** and **5**. The adj
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name]
+[Sina SaeediPour]
 
