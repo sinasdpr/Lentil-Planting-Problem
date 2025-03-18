@@ -7,7 +7,7 @@ Lentils should be planted with proper spacing. If two adjacent spots both contai
 Formally, we need to minimize the number of indices **i** (where **1 ≤ i ≤ n - 1**) such that both positions **i** and **i + 1** contain a lentil seed.  
 
 **Input:**  
-The first line contains two integers **n** (the number of planting spots) and **k** (the number of lentil seeds).  
+The first line contains two integers **k** (the number of planting spots) and **n** (the number of lentil seeds).  
 - **2 ≤ k ≤ 100**  
 - **1 ≤ n ≤ k**  
 
